@@ -1,5 +1,5 @@
 import axios from 'axios'
-import {getUser} from './local-storage'
+import { getUser } from './local-storage'
 
 // axios.create( {
 //     baseUrl : 'https://lehtodoapi.herokuapp.com/',
